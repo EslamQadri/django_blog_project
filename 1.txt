@@ -1,0 +1,9 @@
+1- sharing posts via emails 
+2- adding cooments to posts 
+3- tagging posts 
+4- recommending similer posts 
+
+
+
+
+
